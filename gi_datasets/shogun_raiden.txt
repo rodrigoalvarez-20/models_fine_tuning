@@ -1,0 +1,81 @@
+==Shogun Raiden==
+
+==Info==
+La Shogun Raiden (en japonés: 雷電 将軍 Raiden Shougun), cuyo nombre real es Ei, es un personaje jugable en Genshin Impact.
+Ella controla una marioneta mientras medita dentro del Plano de la eutimia. Ella es el recipiente mortal de Beelzebul, la actual Arconte Electro de Inazuma.
+Hizo su primera aparición como PNJ en la Versión 2.0 y llegó por primera vez en la Versión 2.1 en el gachapón "Reino de la serenidad".
+
+==Perfil==
+Gobernante indiscutible de toda Inazuma
+Llevando el nombre de "Su Excelencia, la todopoderosa Narukami", le prometió a los habitantes de Inazuma la inmutable eternidad.
+Ha destruido el amor con el destello de un relámpago, forjando una tierra pura a partir de un corazón solitario.
+Durante estos largos años, el camino hacia la eternidad ha sido oscuro y lejano, pero Su Alteza Shogun no ha dudado ni un momento.
+Solo en el silencio, la eternidad inmutable revela su naturaleza serena.
+
+==Apariencia==
+La Shogun Raiden es una mujer adulta con largo cabello violeta trenzado que va detrás de su espalda y una horquilla en su lado derecho. Lleva una pequeña cinta carmesí en el cuello a modo de gargantilla. Su kimono tiene una variedad de patrones en diferentes tonos de púrpura y carmesí, junto con una insignia con el emblema de Inazuma atada al frente de su ropa debajo de su pecho derecho. Lleva medias de color púrpura oscuro por encima del nivel de la rodilla, con pequeñas aberturas de diamantes en la parte superior. En la parte de atrás de su atuendo lleva un lazo carmesí con borlas. Ella también usa sandalias; la de la derecha está adornada con dos flores de color violeta pálido.
+
+No se sabe si el alfiler de abanico en su espalda es una Visión falsa o simplemente una marca. Su cabello si brilla cuando realiza las habilidades elementales,tienen inscritas la marca Electro.
+
+==Personalidad==
+La Shogun Raiden es una firme creyente de lo que cree que es la eternidad, un lugar en el que todo se mantiene igual, independientemente de lo que realmente suceda. Ella es honorable en su conducta y es venerada por la gente de Inazuma.
+
+La Shogun existe en dos formas: Ei, su verdadera identidad, y la Shogun, una marioneta creada por Ei para actuar como gobernante de Inazuma en su lugar mientras ella medita en el Plano de la eutimia. Esta marioneta sigue un conjunto de directivas programadas en ella, que son extremadamente difíciles de modificar incluso por la propia Ei. La Shogun tiene una personalidad fría y severa, incluso insensible a veces; ella es limitada en la expresión emocional, no tiene gustos ni disgustos, y no tiene necesidad de recreación. La Shogun se considera la asistente de Ei, y hace exactamente lo que desea, ni más ni menos; no puede actuar sin la dirección de Ei, y si sus funciones habituales están desactivadas, el Shogun se vuelve incapaz de hacer nada. Debido a su gama limitada de protocolos y la apatía de Ei hacia cualquier cosa fuera de la eternidad que busca, el Shogun puede ser fácilmente manipulado por fuerzas externas, como cuando el Clan Kujou y los Fatui la manipularon para iniciar y perpetuar el Decreto de captura de Visiones.
+
+Si bien Ei sigue siendo relativamente estoica en comparación con la mayoría de las personas, es notablemente más emotiva y amigable que la Shogun. A diferencia de la Shogun, Ei tiene cosas que le gustan y que no le gustan, como la afición por los dulces. Debido a su dedicación a la eternidad, Ei desconfía de la idea del cambio, aunque muestra más curiosidad que desdén cuando se trata de cosas nuevas, como la aparición del Viajero y las costumbres del mundo moderno. Debido a que ha perdido a muchos de sus seres queridos a lo largo de los siglos, Ei se siente impulsada por el miedo a una mayor pérdida y desea preservar a Inazuma por toda la eternidad. Con este fin, se selló en el Plano de la Eutimia en un esfuerzo por preservarse de los efectos de la erosión, mientras creaba el Shogun para que fuera inmune a la descomposición del cuerpo físico. Mientras estaba en el Plano de la Eutimia, Ei era apática hacia cualquier cosa que no afectara su búsqueda de la eternidad, y tenía una baja opinión de la ambición humana debido a que la ambición conducía a la pérdida y al sufrimiento, lo que la hacía incompatible con la eternidad. Incluso en el Plano de Eutimia, sin embargo, no pudo escapar realmente de la soledad, ya que estaba feliz de volver a ver a su amiga Yae Miko.
+
+Ei tiene una gran debilidad contra los postres, ya que su opinión es que los postres no pueden representar ningún obstáculo serio para su búsqueda de la Eternidad; Esto también es mencionado por Yae Miko y Venti, con este ultimo sugiriendo al Viajero que le lleve postres para explotar dicha debilidad.
+
+==Historia==
+Desde los albores de la humanidad, la gente siempre ha sentido un gran anhelo y curiosidad por las cosas del mundo. Esta es la base de la cognición y el fundamento sobre el que se sustenta la razón.
+
+Para la gente de Inazuma, el mundo es así también. En esta nación, las tormentas y los rayos existen desde hace mucho tiempo, igual que existe la luz, el océano y... la Shogun Raiden.
+
+Cuando los niños se van a dormir, las madres suelen contarles la leyenda de cómo la Shogun derrotó a otros dioses y conquistó otros pueblos.
+
+Cuando los niños de Inazuma visitan otras islas, ven cañones creados mediante el corte de los rayos y los pálidos e imponentes huesos de una serpiente.
+
+Cuando los soldados van a la guerra, todos gritan "¡gloria a la Shogun y a su imperio eterno!"
+
+La gente con trabajos y vidas tranquilos se siente agradecida con la Shogun y los servicios del fiel Triunvirato.
+
+La reputación de la Shogun Raiden trascendió los límites de lo mortal hace mucho tiempo, y se convirtió en una eterna fe que se ha transmitido en Inazuma durante generaciones.
+
+Debido al prestigio y el poder de su Arconte, el pueblo de Inazuma tiene razones para creer que sus descendientes también verán los mismos paisajes y construirán su mundo en torno a esta fe, la cual seguirán transmitiendo a las siguientes generaciones.
+
+En esto precisamente consiste la utopía eterna que la Shogun le prometió a su pueblo.
+
+==Talentos==
+Estilo Genryuu
+Ataque normal
+Ataque Normal: Ejecuta hasta 5 golpes consecutivos con su lanza.
+Ataque Cargado: Consume una cierta cantidad de Aguante para realizar un ataque hacia arriba.
+Ataque descendiente: Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento de impacto.
+
+Trascendencia: Presagio maligno
+Habilidad elemental
+La Shogun Raiden libera un fragmento de su eutimia para infligir Daño Electro contra los enemigos de alrededor y otorgar a todos los personajes del equipo cercanos el efecto de "Ojo del castigo atronador".
+
+Ojo del castigo atronador
+
+Cuando los ataques de los personajes que obtengan este efecto inflijan daño a un enemigo, el ojo liberará un ataque coordinado que inflige Daño Electro en el AdE en la ubicación de ese enemigo.
+Mientras un personaje esté bajo los efectos de ojo del castigo atronador, el daño que inflige con su Habilidad Definitiva aumenta en proporción a la Energía Elemental consumida para realizar dicha habilidad.
+Como máximo, el ojo del castigo atronador solo podrá ejecutar un ataque coordinado cada 0.9 s por equipo.
+
+El daño infligido con el ataque coordinado por personajes que no son de tu equipo será de un 20% del daño original.
+
+Técnica secreta: Verdad onírica
+Habilidad definitiva
+Reúne las infinitas verdades y consume su ambición infinita para ejecutar un corte onírico que extermina todas las maldiciones del mundo, infligiendo Daño Electro en el AdE y pasando al estado de "mente onírica" durante cierto periodo de tiempo. El daño infligido con corte onírico y con los ataques de mente onírica dependerá de las cargas de rueda de la ambición consumidas cuando esta habilidad sea utilizada.
+
+Mente onírica
+
+En este estado, la Shogun Raiden ataca con su tachi, y sus Ataques Normales, Cargados y Descendentes infligen Daño Electro, el cual no puede sustituirse imbuyéndose de otro elemento.
+Al golpear a un enemigo con estos ataques, todos los personajes del equipo cercanos regeneran Energía Elemental. Esta regeneración puede ocurrir una vez por segundo y activarse un máximo de 5 veces mientras mente onírica está activa.
+En este estado, la RES a interrupción de la Shogun Raiden aumenta, y se vuelve inmune al daño recibido por la reacción de Electrocargado.
+Durante el estado de mente onírica, el daño infligido por los Ataques Normales, Cargados y Descendentes de la Shogun Raiden se considera daño de Habilidad Definitiva.
+El efecto de mente onírica desaparece cuando la Shogun Raiden abandona el campo de batalla.
+Rueda de la ambición
+
+Cuando un personaje cercano del equipo (a excepción de la Shogun Raiden) realiza una Habilidad Definitiva, la Shogun Raiden acumula ambición en proporción a la cantidad de Energia Elemental que ese personaje para realizar su Habilidad Definitiva. Solo se puede acumular un máximo de 60 cargas de ambición.
+Las cargas de ambición acumuladas para la rueda de la ambición se perderán 300 segundos después de que la Shogun Raiden se retire de combate.

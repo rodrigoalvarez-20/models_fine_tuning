@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Cuál es el nombre de la Shogun Raiden en japonés?",
+              "id": 1093125,
+              "answers": [
+                {
+                  "answer_id": 996539,
+                  "document_id": 1632917,
+                  "question_id": 1093125,
+                  "text": "雷電 将軍 Raiden Shougun",
+                  "answer_start": 58,
+                  "answer_end": 63,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Cuál es el nombre real de la Shogun Raiden?",
+              "id": 1093126,
+              "answers": [
+                {
+                  "answer_id": 996540,
+                  "document_id": 1632917,
+                  "question_id": 1093126,
+                  "text": "su nombre real es Ei",
+                  "answer_start": 86,
+                  "answer_end": 103,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Dónde se encuentra Ei en realidad?",
+              "id": 1093127,
+              "answers": [
+                {
+                  "answer_id": 996541,
+                  "document_id": 1632917,
+                  "question_id": 1093127,
+                  "text": "meditando dentro del Plano de la eutimia",
+                  "answer_start": 185,
+                  "answer_end": 222,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿De quién es el recipiente Ei?",
+              "id": 1093128,
+              "answers": [
+                {
+                  "answer_id": 996542,
+                  "document_id": 1632917,
+                  "question_id": 1093128,
+                  "text": "Ella es el recipiente mortal de Beelzebul",
+                  "answer_start": 224,
+                  "answer_end": 265,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Cuál es el sobrenombre de la Shogun Raiden?",
+              "id": 1093129,
+              "answers": [
+                {
+                  "answer_id": 996543,
+                  "document_id": 1632917,
+                  "question_id": 1093129,
+                  "text": "\"Su Excelencia, la todopoderosa Narukami\"",
+                  "answer_start": 514,
+                  "answer_end": 554,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Qué prometió la Shogun Raiden como gobernante de Inazuma?",
+              "id": 1093130,
+              "answers": [
+                {
+                  "answer_id": 996544,
+                  "document_id": 1632917,
+                  "question_id": 1093130,
+                  "text": "le prometió a los habitantes de Inazuma la inmutable eternidad.",
+                  "answer_start": 557,
+                  "answer_end": 620,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Cuál es el aspecto de la Shogun Raiden?",
+              "id": 1093131,
+              "answers": [
+                {
+                  "answer_id": 996545,
+                  "document_id": 1632917,
+                  "question_id": 1093131,
+                  "text": "La Shogun Raiden es una mujer adulta con largo cabello violeta trenzado que va detrás de su espalda y una horquilla en su lado derecho. Lleva una pequeña cinta carmesí en el cuello a modo de gargantilla.",
+                  "answer_start": 954,
+                  "answer_end": 1157,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Cuál es la comida favorita de la Shogun Raiden?",
+              "id": 1093132,
+              "answers": [
+                {
+                  "answer_id": 996546,
+                  "document_id": 1632917,
+                  "question_id": 1093132,
+                  "text": "Ei tiene una gran debilidad contra los postres, ya que su opinión es que los postres no pueden representar ningún obstáculo serio para su búsqueda de la Eternidad",
+                  "answer_start": 4419,
+                  "answer_end": 4581,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Cuál es el ataque básico de la Shogun Raiden?",
+              "id": 1093133,
+              "answers": [
+                {
+                  "answer_id": 996547,
+                  "document_id": 1632917,
+                  "question_id": 1093133,
+                  "text": "Estilo Genryuu",
+                  "answer_start": 6158,
+                  "answer_end": 6172,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Cuál es la habilidad básica de la Shogun Raiden?",
+              "id": 1093134,
+              "answers": [
+                {
+                  "answer_id": 996548,
+                  "document_id": 1632917,
+                  "question_id": 1093134,
+                  "text": "Trascendencia: Presagio maligno",
+                  "answer_start": 6500,
+                  "answer_end": 6531,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "==Shogun Raiden==\n\n==Info==\nLa Shogun Raiden (En japonés: 雷電 将軍 Raiden Shougun), su nombre real es Ei, es un personaje jugable en Genshin Impact.\nElla controla una marioneta mientras se encuentra meditando dentro del Plano de la eutimia. Ella es el recipiente mortal de Beelzebul, la actual Arconte Electro de Inazuma.\nHizo su primera aparición como PNJ en la Versión 2.0 y llegó por primera vez en la Versión 2.1 en el gachapón \"Reino de la serenidad\".\n\n==Perfil==\nGobernante indiscutible de toda Inazuma\nLlevando el nombre de \"Su Excelencia, la todopoderosa Narukami\", le prometió a los habitantes de Inazuma la inmutable eternidad.\nHa destruido el amor con el destello de un relámpago, forjando una tierra pura a partir de un corazón solitario.\nDurante estos largos años, el camino hacia la eternidad ha sido oscuro y lejano, pero Su Alteza Shogun no ha dudado ni un momento.\nSolo en el silencio, la eternidad inmutable revela su naturaleza serena.\n\n==Apariencia==\nLa Shogun Raiden es una mujer adulta con largo cabello violeta trenzado que va detrás de su espalda y una horquilla en su lado derecho. Lleva una pequeña cinta carmesí en el cuello a modo de gargantilla. Su kimono tiene una variedad de patrones en diferentes tonos de púrpura y carmesí, junto con una insignia con el emblema de Inazuma atada al frente de su ropa debajo de su pecho derecho. Lleva medias de color púrpura oscuro por encima del nivel de la rodilla, con pequeñas aberturas de diamantes en la parte superior. En la parte de atrás de su atuendo lleva un lazo carmesí con borlas. Ella también usa sandalias; la de la derecha está adornada con dos flores de color violeta pálido.\n\nNo se sabe si el alfiler de abanico en su espalda es una Visión falsa o simplemente una marca. Su cabello si brilla cuando realiza las habilidades elementales,tienen inscritas la marca Electro.\n\n==Personalidad==\nLa Shogun Raiden es una firme creyente de lo que cree que es la eternidad, un lugar en el que todo se mantiene igual, independientemente de lo que realmente suceda. Ella es honorable en su conducta y es venerada por la gente de Inazuma.\n\nLa Shogun existe en dos formas: Ei, su verdadera identidad, y la Shogun, una marioneta creada por Ei para actuar como gobernante de Inazuma en su lugar mientras ella medita en el Plano de la eutimia. Esta marioneta sigue un conjunto de directivas programadas en ella, que son extremadamente difíciles de modificar incluso por la propia Ei. La Shogun tiene una personalidad fría y severa, incluso insensible a veces; ella es limitada en la expresión emocional, no tiene gustos ni disgustos, y no tiene necesidad de recreación. La Shogun se considera la asistente de Ei, y hace exactamente lo que desea, ni más ni menos; no puede actuar sin la dirección de Ei, y si sus funciones habituales están desactivadas, el Shogun se vuelve incapaz de hacer nada. Debido a su gama limitada de protocolos y la apatía de Ei hacia cualquier cosa fuera de la eternidad que busca, el Shogun puede ser fácilmente manipulado por fuerzas externas, como cuando el Clan Kujou y los Fatui la manipularon para iniciar y perpetuar el Decreto de captura de Visiones.\n\nSi bien Ei sigue siendo relativamente estoica en comparación con la mayoría de las personas, es notablemente más emotiva y amigable que la Shogun. A diferencia de la Shogun, Ei tiene cosas que le gustan y que no le gustan, como la afición por los dulces. Debido a su dedicación a la eternidad, Ei desconfía de la idea del cambio, aunque muestra más curiosidad que desdén cuando se trata de cosas nuevas, como la aparición del Viajero y las costumbres del mundo moderno. Debido a que ha perdido a muchos de sus seres queridos a lo largo de los siglos, Ei se siente impulsada por el miedo a una mayor pérdida y desea preservar a Inazuma por toda la eternidad. Con este fin, se selló en el Plano de la Eutimia en un esfuerzo por preservarse de los efectos de la erosión, mientras creaba el Shogun para que fuera inmune a la descomposición del cuerpo físico. Mientras estaba en el Plano de la Eutimia, Ei era apática hacia cualquier cosa que no afectara su búsqueda de la eternidad, y tenía una baja opinión de la ambición humana debido a que la ambición conducía a la pérdida y al sufrimiento, lo que la hacía incompatible con la eternidad. Incluso en el Plano de Eutimia, sin embargo, no pudo escapar realmente de la soledad, ya que estaba feliz de volver a ver a su amiga Yae Miko.\n\nEi tiene una gran debilidad contra los postres, ya que su opinión es que los postres no pueden representar ningún obstáculo serio para su búsqueda de la Eternidad; Esto también es mencionado por Yae Miko y Venti, con este ultimo sugiriendo al Viajero que le lleve postres para explotar dicha debilidad.\n\n==Historia==\nDesde los albores de la humanidad, la gente siempre ha sentido un gran anhelo y curiosidad por las cosas del mundo. Esta es la base de la cognición y el fundamento sobre el que se sustenta la razón.\n\nPara la gente de Inazuma, el mundo es así también. En esta nación, las tormentas y los rayos existen desde hace mucho tiempo, igual que existe la luz, el océano y... la Shogun Raiden.\n\nCuando los niños se van a dormir, las madres suelen contarles la leyenda de cómo la Shogun derrotó a otros dioses y conquistó otros pueblos.\n\nCuando los niños de Inazuma visitan otras islas, ven cañones creados mediante el corte de los rayos y los pálidos e imponentes huesos de una serpiente.\n\nCuando los soldados van a la guerra, todos gritan \"¡gloria a la Shogun y a su imperio eterno!\"\n\nLa gente con trabajos y vidas tranquilos se siente agradecida con la Shogun y los servicios del fiel Triunvirato.\n\nLa reputación de la Shogun Raiden trascendió los límites de lo mortal hace mucho tiempo, y se convirtió en una eterna fe que se ha transmitido en Inazuma durante generaciones.\n\nDebido al prestigio y el poder de su Arconte, el pueblo de Inazuma tiene razones para creer que sus descendientes también verán los mismos paisajes y construirán su mundo en torno a esta fe, la cual seguirán transmitiendo a las siguientes generaciones.\n\nEn esto precisamente consiste la utopía eterna que la Shogun le prometió a su pueblo.\n\n==Talentos==\nEstilo Genryuu\nAtaque normal\nAtaque Normal: Ejecuta hasta 5 golpes consecutivos con su lanza.\nAtaque Cargado: Consume una cierta cantidad de Aguante para realizar un ataque hacia arriba.\nAtaque descendiente: Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento de impacto.\n\nTrascendencia: Presagio maligno\nHabilidad elemental\nLa Shogun Raiden libera un fragmento de su eutimia para infligir Daño Electro contra los enemigos de alrededor y otorgar a todos los personajes del equipo cercanos el efecto de \"Ojo del castigo atronador\".\n\nOjo del castigo atronador\n\nCuando los ataques de los personajes que obtengan este efecto inflijan daño a un enemigo, el ojo liberará un ataque coordinado que inflige Daño Electro en el AdE en la ubicación de ese enemigo.\nMientras un personaje esté bajo los efectos de ojo del castigo atronador, el daño que inflige con su Habilidad Definitiva aumenta en proporción a la Energía Elemental consumida para realizar dicha habilidad.\nComo máximo, el ojo del castigo atronador solo podrá ejecutar un ataque coordinado cada 0.9 s por equipo.\n\nEl daño infligido con el ataque coordinado por personajes que no son de tu equipo será de un 20% del daño original.\n\nTécnica secreta: Verdad onírica\nHabilidad definitiva\nReúne las infinitas verdades y consume su ambición infinita para ejecutar un corte onírico que extermina todas las maldiciones del mundo, infligiendo Daño Electro en el AdE y pasando al estado de \"mente onírica\" durante cierto periodo de tiempo. El daño infligido con corte onírico y con los ataques de mente onírica dependerá de las cargas de rueda de la ambición consumidas cuando esta habilidad sea utilizada.\n\nMente onírica\n\nEn este estado, la Shogun Raiden ataca con su tachi, y sus Ataques Normales, Cargados y Descendentes infligen Daño Electro, el cual no puede sustituirse imbuyéndose de otro elemento.\nAl golpear a un enemigo con estos ataques, todos los personajes del equipo cercanos regeneran Energía Elemental. Esta regeneración puede ocurrir una vez por segundo y activarse un máximo de 5 veces mientras mente onírica está activa.\nEn este estado, la RES a interrupción de la Shogun Raiden aumenta, y se vuelve inmune al daño recibido por la reacción de Electrocargado.\nDurante el estado de mente onírica, el daño infligido por los Ataques Normales, Cargados y Descendentes de la Shogun Raiden se considera daño de Habilidad Definitiva.\nEl efecto de mente onírica desaparece cuando la Shogun Raiden abandona el campo de batalla.\nRueda de la ambición\n\nCuando un personaje cercano del equipo (a excepción de la Shogun Raiden) realiza una Habilidad Definitiva, la Shogun Raiden acumula ambición en proporción a la cantidad de Energia Elemental que ese personaje para realizar su Habilidad Definitiva. Solo se puede acumular un máximo de 60 cargas de ambición.\nLas cargas de ambición acumuladas para la rueda de la ambición se perderán 300 segundos después de que la Shogun Raiden se retire de combate.",
+          "document_id": 1632917
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Qué menciona \"La bendición de las estrellas\" acerca de Laila?",
+              "id": 1093135,
+              "answers": [
+                {
+                  "answer_id": 996550,
+                  "document_id": 1632916,
+                  "question_id": 1093135,
+                  "text": "\"Siempre dice que está abrumada escribiendo su tesis y que dibujar mapas astrales la estresa, pero es más resistente que nadie, y se niega a quedarse atrás... ¿Por qué la conozco tan bien? Jeje...\"",
+                  "answer_start": 22,
+                  "answer_end": 219,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Qué estudia Laila?",
+              "id": 1093136,
+              "answers": [
+                {
+                  "answer_id": 996551,
+                  "document_id": 1632916,
+                  "question_id": 1093136,
+                  "text": "Estudiante de la Facultad Rtawahist, Laila se está especializando en astrología teórica y dibuja incansablemente mapas astrales que incluir en su tesis.",
+                  "answer_start": 294,
+                  "answer_end": 446,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Cuál es el aspecto de Laila?",
+              "id": 1093137,
+              "answers": [
+                {
+                  "answer_id": 996552,
+                  "document_id": 1632916,
+                  "question_id": 1093137,
+                  "text": "Laila es una joven delgada de piel clara y ojos dorados con pupilas blancas. Tiene el pelo azul oscuro, que se va aclarando en las puntas, y está peinado con coletas que giran en las puntas y orejas puntiagudas. Su rostro está enmarcado por un flequillo que también gira en las puntas y que llega hasta más allá de la barbilla y hasta los hombros. Lleva un tocado dorado que parece una tiara adornada con un adorno de copos de nieve y una capucha puntiaguda de color índigo.",
+                  "answer_start": 1451,
+                  "answer_end": 1925,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Cuál es el atuendo de Laila?",
+              "id": 1093138,
+              "answers": [
+                {
+                  "answer_id": 996553,
+                  "document_id": 1632916,
+                  "question_id": 1093138,
+                  "text": "El atuendo de Laila consiste en una túnica negra con la parte delantera blanca y mangas abullonadas de color índigo. Alrededor de las muñecas lleva gruesos brazaletes de oro con cadenas que cuelgan de ellos y guantes negros con afiladas cuchillas doradas. Alrededor de la cintura lleva un largo trozo de tela añil atado para formar un cinturón con varios detalles dorados. Lleva unas mallas blancas con anillos dorados alrededor del muslo izquierdo y unas sandalias doradas.",
+                  "answer_start": 1927,
+                  "answer_end": 2401,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Cuál es la personalidad de Laila?",
+              "id": 1093139,
+              "answers": [
+                {
+                  "answer_id": 996554,
+                  "document_id": 1632916,
+                  "question_id": 1093139,
+                  "text": "Debido en parte al estilo de vida de la Akademiya, Laila está muy dedicada a sus estudios, pero esto también la ha dejado algo paranoica y con mucha falta de sueño, haciéndola muy tímida y pareciendo que podría colapsar por agotamiento en cualquier momento. A pesar de estos rasgos, Laila es inusualmente perseverante, ya que sobrevivió a varios de sus compañeros de clase que se unieron al mismo tiempo que ella.",
+                  "answer_start": 2504,
+                  "answer_end": 2917,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "==Laila==\n\n==Perfil==\n\"Siempre dice que está abrumada escribiendo su tesis y que dibujar mapas astrales la estresa, pero es más resistente que nadie, y se niega a quedarse atrás... ¿Por qué la conozco tan bien? Jeje...\"\n~ Una misteriosa joven que se hace llamar \"La bendición de las estrellas\"\nEstudiante de la Facultad Rtawahist, Laila se está especializando en astrología teórica y dibuja incansablemente mapas astrales que incluir en su tesis.\n\nDebido a las altas expectativas de sus profesores, su escritorio siempre está cubierto de montones de papeles que no dejan de crecer por más que se esfuerce.\n\nAl sufrir de una severa falta de sueño, si detiene la mirada fijamente sobre un papel en blanco, montones de estrellas comenzarán a titilar frente a sus ojos.\n\nEs por eso que decidió tomarse un pequeño descanso, para ser capaz de afrontar la realidad con una mente lúcida y despejada.\n\nCuando abrió los ojos de nuevo, descubrió que una miríada de estrellas habían adornado el manuscrito que previamente dejó en blanco.\n\nLaila se frotó los ojos para asegurarse de que no estaba soñando. La tesis que debía presentarse al día siguiente estaba ahora claramente escrita en los papeles.\n\n¿Es una tesis que cayó del cielo? ¿O una bendición de las estrellas? ¿O es eso de... sonambulismo del que hablan en las leyendas?\n\n... No había tiempo para reflexionar sobre estas cuestiones: la próxima clase de Laila estaba a punto de empezar.\n\n==Apariencia==\nLaila es una joven delgada de piel clara y ojos dorados con pupilas blancas. Tiene el pelo azul oscuro, que se va aclarando en las puntas, y está peinado con coletas que giran en las puntas y orejas puntiagudas. Su rostro está enmarcado por un flequillo que también gira en las puntas y que llega hasta más allá de la barbilla y hasta los hombros. Lleva un tocado dorado que parece una tiara adornada con un adorno de copos de nieve y una capucha puntiaguda de color índigo.\n\nEl atuendo de Laila consiste en una túnica negra con la parte delantera blanca y mangas abullonadas de color índigo. Alrededor de las muñecas lleva gruesos brazaletes de oro con cadenas que cuelgan de ellos y guantes negros con afiladas cuchillas doradas. Alrededor de la cintura lleva un largo trozo de tela añil atado para formar un cinturón con varios detalles dorados. Lleva unas mallas blancas con anillos dorados alrededor del muslo izquierdo y unas sandalias doradas. Su Visión Cryo está sujeta a un punto detrás de su túnica, por encima del cinturón.\n\n==Personalidad==\nDebido en parte al estilo de vida de la Akademiya, Laila está muy dedicada a sus estudios, pero esto también la ha dejado algo paranoica y con mucha falta de sueño, haciéndola muy tímida y pareciendo que podría colapsar por agotamiento en cualquier momento. A pesar de estos rasgos, Laila es inusualmente perseverante, ya que sobrevivió a varios de sus compañeros de clase que se unieron al mismo tiempo que ella.\n\nLa falta de sueño de Laila es hasta el punto de que termina sonámbula en la noche, donde se manifiesta una personalidad alternativa de ella. Esta persona es enérgica y decidida, ayudando a resolver todos sus problemas en un instante. Cuando Laila se despierta, expresa sorpresa de cómo sus papeles habían terminado por completo. Parece no ser consciente de su personalidad alternativa, sino que cree que está bendecida por las estrellas.\n\n==Historia==\nLa Facultad Rtawahist, a la que pertenece la Escuela de Iluminacionismo, es una de las Seis Facultades bajo la jurisdicción de la Academia de Sumeru.\n\nCada una de las Seis Escuelas tiene un área de investigación distinta. La Escuela de Iluminacionismo se dedica al estudio de la bóveda celeste que flota encima de todos los seres vivos desde tiempos inmemoriales.\n\nLaila es precisamente una de los tantos estudiantes que consagran su estudio en esta área de investigación.\n\nA pesar de que no lleva mucho tiempo en la Academia, ya se ha granjeado un sinnúmero de motes extraños.\n\n\"Sonámbula excéntrica\", \"calculadora andante\", \"tesis caída del cielo\"... Todo aquel que conoce a Laila se refiere a ella con esta clase de sobrenombres.\n\nPeor aún es que, conforme pasan los días, la lista de apodos se vuelve más y más larga.",
+          "document_id": 1632916
+        }
+      ]
+    }
+  ]
+}
